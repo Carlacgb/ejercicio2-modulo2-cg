@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+.header_logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_logo-img {
+    width: 300px;
+}
+
+.header_nav {
+    position: relative;
+    float: left;
+}
+
+.header_nav-list {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.header_nav-item {
+    padding: 0px 10px 0px 10px;
+}
+
+.header_nav-link {
+    color: $primary-color;
+}
+
