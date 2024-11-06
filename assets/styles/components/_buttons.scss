@@ -1,0 +1,14 @@
+button {
+  border: none;
+  color: white;
+  background-color: $primary-color;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+button:hover {
+    background-color: $secondary-color;
+}

@@ -1,0 +1,39 @@
+.footer {
+    background-color: red;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__logo {
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.footer__logo--item {
+    padding: 0px 0px 20px 0px;
+}
+
+.footer__logo--img {
+    background-color: orange;
+    width: 200px;
+}
+
+.footer__logo--txt {
+    font-size: 14px;
+    text-align: center;
+}
+
+.footer__enlaces {
+    background-color: white;
+}
+
+.footer__enlaces--list {
+    list-style-type: none;
+}
+
+.footer__enlaces--link {
+    color: $primary-color;
+}
