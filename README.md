@@ -50,11 +50,11 @@ Se implementa el patrón 7-1 con la siguiente organización:
 
 
 ## CRÉDITOS:
+
 - Desarrollo Front-End: Carla García Becerra
 - Diseño UX: Carla García Becerra
-
-Foto portada: de [Tom Fisk] (https://www.pexels.com/es-es/foto/hospital-junto-al-estacionamiento-de-vehiculos-y-la-carretera-por-la-noche-1692693/)
-Foto doctora 1 de [Tima Miroshnichenko] (https://www.pexels.com/es-es/foto/gente-mujer-escritorio-oficina-8376277/)
-Foto doctor 2 de [Usman Yousaf] (https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5997511)
-Foto doctora 3 de [Jeff Denlea] (https://www.pexels.com/es-es/foto/mujer-en-bata-medica-blanca-3714743/)
-Foto de doctora 4 de [Tima Miroshnichenko] (https://www.pexels.com/es-es/foto/persona-mujer-cuaderno-oficina-5407217/)
+- Foto portada de: [@Tom Fisk] (https://www.pexels.com/es-es/foto/hospital-junto-al-estacionamiento-de-vehiculos-y-la-carretera-por-la-noche-1692693/)
+- Foto doctora 1 de: [@Tima Miroshnichenko] (https://www.pexels.com/es-es/foto/gente-mujer-escritorio-oficina-8376277/)
+- Foto doctor 2 de: [@Usman Yousaf] (https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5997511)
+- Foto doctora 3 de: [@Jeff Denlea] (https://www.pexels.com/es-es/foto/mujer-en-bata-medica-blanca-3714743/)
+- Foto de doctora 4 de: [@Tima Miroshnichenko] (https://www.pexels.com/es-es/foto/persona-mujer-cuaderno-oficina-5407217/)
