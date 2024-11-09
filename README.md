@@ -50,8 +50,8 @@ Se implementa el patrón 7-1 con la siguiente organización:
 
 
 ## CRÉDITOS:
-Desarrollo Front-End: Carla García Becerra
-Diseño UX: Carla García Becerra
+- Desarrollo Front-End: Carla García Becerra
+- Diseño UX: Carla García Becerra
 
 Foto portada: de [Tom Fisk] (https://www.pexels.com/es-es/foto/hospital-junto-al-estacionamiento-de-vehiculos-y-la-carretera-por-la-noche-1692693/)
 Foto doctora 1 de [Tima Miroshnichenko] (https://www.pexels.com/es-es/foto/gente-mujer-escritorio-oficina-8376277/)
