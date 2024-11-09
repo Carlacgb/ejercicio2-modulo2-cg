@@ -2,17 +2,20 @@
 Barrio Sano | Clínica Preventiva Comunitaria
 
 ## DESCRIPCIÓN GENERAL DEL PROYECTO
-El sitio web de la Clínica Preventiva Comunitaria Barrio Sano tiene como objetivo mejorar la presencia en línea de la clínica. Su diseño se caracteriza por una navegación sencilla e intuitiva, que refleja fielmente la identidad de la clínica. En el portal, los usuarios pueden acceder a información detallada sobre los servicios ofrecidos, el equipo médico, y los datos de contacto. Además, se ha implementado un botón para el agendamiento de citas para los pacientes. En esta fase del proyecto, se ha desarrollado la estructura principal utilizando HTML5.
+El sitio web de la Clínica Preventiva Comunitaria Barrio Sano tiene como objetivo mejorar la presencia en línea de la clínica. Su diseño se caracteriza por una navegación sencilla e intuitiva, que refleja fielmente la identidad de la clínica. En el portal, los usuarios pueden acceder a información detallada sobre los servicios ofrecidos, el equipo médico, y los datos de contacto. Además, se ha implementado un botón para el agendamiento de citas para los pacientes. En esta fase del proyecto, se implementa la modularización de estilos y se asegura que el sitio sea completamente responsivo. Para esto se implementa la metodología como BEM, el uso de SASS para estructurar el CSS de manera eficiente, y la aplicación de media queries para lograr una correcta adaptabilidad en dispositivos de diferentes tamaños.
 
 ## INSTRUCCIONES PARA ABRIR EL PROYECTO
 Abrir el archivo index.html
 
 ## ESTRUCTURA DE CARPETAS Y ARCHIVOS
+- assets
+    - images
+    - js
+    - styles
 - index.html
 - equipo-medico.html
 - contacto.html
 - reservar-cita.html
-- images
 - README
 
 ## DESCRIPCIÓN BREVE DE CADA PÁGINA
@@ -25,6 +28,25 @@ Se presenta el equipo médico de la clínica con sus respectivos perfiles profes
 
 ### Contacto: 
 Se encuentra un formulario de contacto y un mapa de ubicación de la clínica en la ciudad de Santiago de Chile.
+
+
+## IMPLEMENTACIÓN DE MODULARIZACIÓN DE ESTILOS
+
+### METODOLOGÍA BEM
+
+Se implementa la metodología BEM para la creación de componentes reutilizables y evitar la duplicación de código. Se define un sistema claro de nombres para las clases CSS.
+
+### ESTRUCTURA SASS
+
+Se implementa el patrón 7-1 con la siguiente organización:
+
+- abstracts
+- base
+- components
+- layout
+- page
+- themes
+- vendors
 
 
 ## CRÉDITOS:
