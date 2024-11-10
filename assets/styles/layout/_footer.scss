@@ -12,9 +12,22 @@
     padding: 60px 0px 60px 0px;
 }
 
+@media (max-width: 750px){
+    .footer .footer__contenedor1{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
 .footer__contenedor--caja{
     padding: 0px 50px 0px 50px;
 }
+
+    @media (max-width: 750px){
+        .footer__contenedor--caja{
+            margin-bottom: 60px;
+        }
+    }
 
 .footer__contenedor--caja figure {
     width: 100%;
