@@ -53,4 +53,30 @@
 
 .main__servicios{
     background-color: $secondary-color;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.main__servicios--contenedor{
+    background-color: red;
+    margin: 0px 10px 0px 10px;
+}
+
+.main__servicios--icono{
+    width: 100px;
+}
+
+.servicios__CajaTexto{
+    background-color: blue;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.servicios__CajaTexto--titulo{
+    color: $secondary-color;
 }

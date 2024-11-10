@@ -33,7 +33,7 @@ p {
 
 main {
   background-color: aquamarine;
-  padding: 0px 20px 0px 20px;
+  padding: 0px 10px 0px 10px;
   margin-top: 100px;
 }
 
@@ -146,6 +146,32 @@ button:hover {
 
 .main__servicios {
   background-color: #16c79a;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 50px;
+  padding-bottom: 80px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.main__servicios--contenedor {
+  background-color: red;
+  margin: 0px 10px 0px 10px;
+}
+
+.main__servicios--icono {
+  width: 100px;
+}
+
+.servicios__CajaTexto {
+  background-color: blue;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.servicios__CajaTexto--titulo {
+  color: #16c79a;
 }
 
 .footer {
